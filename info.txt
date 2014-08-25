@@ -4,3 +4,5 @@
 git config --global i18n.logoutputencoding utf-8
 
 就解决问题了！
+
+在公司电脑测试中文
