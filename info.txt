@@ -5,4 +5,8 @@ git config --global i18n.logoutputencoding utf-8
 
 就解决问题了！
 
+<<<<<<< HEAD
 增加测试git hook的邮件功能
+=======
+在公司电脑测试中文
+>>>>>>> e18bb3b5f45b3553b4f45fc306cd8ad45ad0dc11
